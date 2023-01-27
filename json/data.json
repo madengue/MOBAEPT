@@ -1,0 +1,58 @@
+[
+    {
+        "brand": "Facture 1",
+        "compteur": "41",
+        "N.index": "3",
+        "D.index": "0",
+        "date": "15 dec 2022",
+        "Pu":"500",
+        "Consomation":"1 500",
+        "status": "true",
+        "impayer":"5 000",
+        "index":"3",
+        "due": "7 000",
+        "info":"A Payer aujourd'hui"
+    },
+    {
+        "brand": "Facture 2",
+        "compteur": "45",
+        "N.index": "11",
+        "D.index": "8",
+        "date": "09 dec 2022",
+        "Pu":"500",
+        "Consomation":"1 500",
+        "status": "false",
+        "impayer":"2 000",
+        "index":"3",
+        "due": "4 000",
+        "info":"Payer"
+    },
+    {
+        "brand": "Facture 3",
+        "compteur": "45",
+        "N.index": "11",
+        "D.index": "8",
+        "date": "09 dec 2022",
+        "Pu":"500",
+        "Consomation":"1 500",
+        "status": "false",
+        "impayer":"1 000",
+        "index":"3",
+        "due": "3 000",
+        "info":"Payer"
+    },
+    {
+        "brand": "Facture 4",
+        "compteur": "65",
+        "N.index": "7",
+        "D.index": "6",
+        "date": "09 dec 2022",
+        "Pu":"500",
+        "Consomation":"500",
+        "status": "false",
+        "impayer":"13 000",
+        "index":"1",
+        "due": "14 000",
+        "info":"A Payer aujourd'hui"
+    }
+]
